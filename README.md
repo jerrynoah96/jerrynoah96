@@ -3,7 +3,7 @@
 
 <!--
 **jerrynoah96/jerrynoah96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-"https://assets-global.website-files.com/5f3306add5c511ca4cf17da9/6001b0ab21772ccb5262a3ab_Smart%20Contracts.png"
+
 
 Here are some ideas to get you started:
 
