@@ -4,7 +4,7 @@
 <!--
 **jerrynoah96/jerrynoah96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Jeremiah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrynoah96&theme=synthwave&show_icons=true&count_private=true “Jeremiah’s GutHub Stats”)
+[![jerrynoah96's github stats](https://github-readme-stats.vercel.app/api?username=jerrynoah96&show_icons=true&theme=radical&hide=stars)](https://github.com/jerrynoah96/)
 - 🔭 I'm currently working on DEFI/NFT/DAO projects
 - 🌱 I’m currently learning smart Contract Security
 - 👯 I’m looking to collaborate on interesting blockchain projects
@@ -16,7 +16,6 @@
 - 😄 Pronouns: Jerry 😄
 - ⚡ Fun fact: Funny Twitter threads 😄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrynoah96&theme=synthwave “Jeremiah’s Top Languages Card”)
 
 <a href=”https://twitter.com/Noahjerry96">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
