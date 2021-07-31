@@ -16,6 +16,9 @@
 - 😄 Pronouns: Jerry 😄
 - ⚡ Fun fact: Funny Twitter threads 😄
 
+### Get in touch with me...
 
-<a href=”https://twitter.com/Noahjerry96">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://newcreationjerry96@gmail.com)
+[<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/Noahjerry96)
+
 
