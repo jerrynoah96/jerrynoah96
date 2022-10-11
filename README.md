@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Jeremiah, a solidity smart contract developer
+# I'm Jeremiah, a solidity smart contract developer, cryptography enthusiast
 
 <!--
 **jerrynoah96/jerrynoah96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
