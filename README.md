@@ -13,7 +13,7 @@ I build production systems across fintech, blockchain, and AI — from backend A
 - 👯 Looking to collaborate on interesting blockchain and fintech projects
 - 🌱 I mentor Web2 developers and non-coders transitioning into the Web3 ecosystem
 - 😄 I love staying up to date with current trends
-- 💬 Reach me on Twitter/X: [@NoahJerry96](https://twitter.com/NoahJerry96)
+- 💬 Reach me on Twitter/X: [@NoahJerry96](https://twitter.com/_real_jeremiah)
 - 📫 Email: jeremiahnoah0724@gmail.com
 
 ### Get in touch
